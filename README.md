@@ -9,8 +9,6 @@ Los lenguajes de marcas han evolucionado considerablemente desde sus orígenes e
 - **1998**: Aparición de XML.
 - **Actualidad**: Desarrollo de lenguajes especializados como Markdown, XHTML, entre otros.
 
-Para más detalles sobre qué son los lenguajes de marcas, consulta este [enlace](https://www.ticartce.com/contenido/que-son-los-lenguajes-de-marcas).
-
 ## 2. Ventajas e inconvenientes de los lenguajes de marcas
 Los lenguajes de marcas son esenciales para el intercambio de información entre sistemas, gracias a su estructura basada en etiquetas que permite representar datos de forma organizada y legible tanto para humanos como para máquinas.
 
@@ -22,8 +20,6 @@ Los lenguajes de marcas son esenciales para el intercambio de información entre
 ### Inconvenientes:
 - **Curva de aprendizaje**: Aunque son fáciles de entender en sus niveles básicos, algunos lenguajes como XML pueden ser complejos en aplicaciones avanzadas.
 - **Compatibilidad**: Algunas versiones o implementaciones pueden no ser compatibles con todos los navegadores o plataformas.
-
-Más información sobre la historia de los lenguajes de marcas en este [enlace](https://www.mclibre.org/consultar/htmlcss/otros/historia.html).
 
 ## 3. Organismos y estándares: W3C y WHATWG
 El **W3C** (World Wide Web Consortium) es el principal organismo internacional que desarrolla estándares para asegurar el crecimiento y la accesibilidad de la web. Entre sus trabajos más importantes está la definición y evolución de HTML y CSS.
